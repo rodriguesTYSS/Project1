@@ -7,7 +7,7 @@ public class Class1 {
 		System.out.println("this is the code for second push");
 		System.out.println("this is the code for third push");
 		System.out.println("this is the code for 4th push");
-		System.out.println("this is the code for error message");
+		System.out.println("this is the code into branch X");
 		
 
 	}
